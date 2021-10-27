@@ -1,13 +1,15 @@
-### Hi there my name is Italo!
-#### I am Jr. Mobile Developer.
-![Sem Título-2](https://user-images.githubusercontent.com/89754045/131273912-4050aa50-28f9-42c8-9202-8f2f1b9e25fe.png)
+<img width="100%" src="">
 
+### Hi there, I'm [QUAN (aka DEREK)](https://github.com/ItaloCarneir0) 👋
 
+🏠 I’m currently living at Sao Paulo, Brazil 🇧🇷 <br/>
+👨‍💻 I’m currently working as a iOS Developer.<br/>
 
+⚡ Etc...
 
-- 💬 *SKILLS* : ANDROID / iOS / FLUTTER
+**Tools**
 
+<code><img height="30" src="http://assets.stickpng.com/images/58482ce4cef1014c0b5e4a4c.png"></code>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/italocarneir0/) 
-
-
+[![Italo's github stats](https://github-readme-stats.vercel.app/api?username=ItaloCarneir0&show_icons=true&theme=merko)](https://github.com/ItaloCarneir0)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloCarneir0&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
