@@ -1,6 +1,6 @@
 <img width="100%" src="">
 
-### Hi there, I'm [QUAN (aka DEREK)](https://github.com/ItaloCarneir0) 👋
+### Hi there, I'm [Italo Carneiro](https://github.com/ItaloCarneir0) 👋
 
 🏠 I’m currently living at Sao Paulo, Brazil 🇧🇷 <br/>
 👨‍💻 I’m currently working as a iOS Developer.<br/>
