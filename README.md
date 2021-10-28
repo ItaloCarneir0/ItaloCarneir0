@@ -1,4 +1,4 @@
-<img width="100%" src="">
+<img width="100%" src="https://github.com/ItaloCarneir0/ItaloCarneir0/blob/main/Sem%20T%C3%ADtulo-2.jpg">
 
 ### Hi there, I'm [Italo Carneiro](https://github.com/ItaloCarneir0) 👋
 
