@@ -1,4 +1,3 @@
-<img width="100%" src="https://github.com/ItaloCarneir0/ItaloCarneir0/blob/main/Sem%20T%C3%ADtulo-2.jpg">
 
 
 [![Italo's github stats](https://github-readme-stats.vercel.app/api?username=ItaloCarneir0&show_icons=true&theme=radical)](https://github.com/ItaloCarneir0)
